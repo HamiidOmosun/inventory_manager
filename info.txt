@@ -1,0 +1,18 @@
+Inventory Management System (for Small Shops)
+
+verview:
+
+Build a simple CLI app that helps a small shop owner keep track of items in stock, sales, restocks, 
+and total inventory value.
+
+
+Features:
+
+* Add new products (name, quantity, price)
+* Sell items (reduces quantity)
+* Restock items
+* View current stock
+* Search for an item by name
+* View total inventory value (sum of all quantities × prices)
+
+
