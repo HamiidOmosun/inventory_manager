@@ -8,7 +8,8 @@ class Inventory:
     self.price = price
     self.SKU = uuid.uuid4()
     
-    
+  def display(self):
+    print(f"Product: {self.name}, Quantity: {self.quantity}, Price {self.price}, Product_ID: {self.SKU}")
   pass
 
 class Inventory_Manager:
